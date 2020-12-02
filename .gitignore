@@ -1,0 +1,2 @@
+# Ignoring vitural interperter files. 
+.venv/*
