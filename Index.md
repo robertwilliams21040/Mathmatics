@@ -20,3 +20,7 @@ This is the documentation for my personal notes on mathmatics.
 -MathJax basic tutorial and quick reference: [MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5025#5025) 
   
 -Full set of online notes taken by a professor at Lamar University: [Pauls notes](https://tutorial.math.lamar.edu/)
+  
+### Helpful tips
+
+-Using the dollar signs ($$) inside of an array causes the array to not display on Github. In order to avoid this, use the text tags only when you need text Example: \text{This is text} \frac{2}{3})^5 \text{inside of an array} 
