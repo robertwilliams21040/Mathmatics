@@ -9,6 +9,7 @@ This is the documentation for my personal notes on calculus
 
 - [Limits](Limits.ipynb)
 - [Derivatives](Derivatives.ipynb)
+- [Derivative Applications](DerivativeApplications.ipynb)
 
  
 ### Additional References
